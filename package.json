@@ -1,0 +1,15 @@
+{
+  "name": "tugas-pekanan-2",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raffel Krisna Febriyanto",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^13.0.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
